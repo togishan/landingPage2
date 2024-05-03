@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: BeBetter # Website name
-baseURL: "https://bebetter24.netlify.app/" # Website URL
+baseURL: "https://bebetter23.netlify.app/" # Website URL
 
 ############################
 ## LANGUAGE
