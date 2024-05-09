@@ -162,7 +162,7 @@ sections:
   - block: markdown
     content:
       title: Video
-      subtitle: "Video comes here"
+      subtitle: <iframe width="560" height="315" src="https://www.youtube.com/embed/jA5p3RAxGPU?si=--rcGL0TJTaPm7H8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     design:
       columns: "1"
   - block: people
