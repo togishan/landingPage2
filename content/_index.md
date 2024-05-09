@@ -165,6 +165,31 @@ sections:
       subtitle: <iframe width="560" height="315" src="https://www.youtube.com/embed/jA5p3RAxGPU?si=--rcGL0TJTaPm7H8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     design:
       columns: "1"
+  - block: markdown
+    content:
+      title: |
+        Technologies
+      text: |
+        <div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-end;">
+            <div style="text-align: center; margin-right: 140px;">
+                <img src="images/postgresql.jpg" alt="PostgreSQL" style="width: 300px; height: auto;">
+                <p>PostgreSQL</p>
+            </div>
+            <div style="text-align: center; margin-right: 140px;">
+                <img src="images/reactNative.jpg" alt="React Native" style="width: 300px; height: auto;">
+                <p>React Native</p>
+            </div>
+            <div style="text-align: center; margin-right: 140px;">
+                <img src="images/expo.jpg" alt="Expo Go" style="width: 300px; height: auto;">
+                <p>Expo Go</p>
+            </div>
+            <div style="text-align: center; margin-right: 140px;">
+                <img src="images/supabase.jpg" alt="Supabase" style="width: 300px; height: auto;">
+                <p>Supabase</p>
+            </div>
+        </div>
+
+        <br>
   - block: people
     id: authors
     content:
