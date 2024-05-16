@@ -5,20 +5,17 @@
 
 main:
   - name: Home
-    url: "#about"
+    url: "#top"
     weight: 10
-  - name: Posts
-    url: "#posts"
+  - name: Gallery
+    url: "#gallery"
     weight: 20
-  - name: Projects
-    url: "#projects"
+  - name: Video
+    url: "#video"
     weight: 30
-  - name: Talks
-    url: "#talks"
+  - name: Technologies
+    url: "#technologies"
     weight: 40
-  - name: Publications
-    url: "#featured"
-    weight: 50
   - name: Team
     url: "#authors"
     weight: 60
